@@ -7,4 +7,4 @@ in order to identify large emails and large numbers of  emails from a sender.
 The script does not read the body of the email, just the sender, recipient, subject and size. 
 It obtains all the emails in a single fetch, which is much more efficient than fetching data for each email individually.
 
-On my laptop it can read and process 20,000 emails in aa minute.
+On my laptop it can read and process approx 20,000 emails in a minute.
