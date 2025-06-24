@@ -10,3 +10,5 @@ The script does not read the body of the email, just the sender, recipient, subj
 It obtains all the emails in a single fetch, which is much more efficient than fetching data for each email individually.
 
 On my laptop it can read and process approx 20,000 emails in a minute.
+
+The program must use an application password, described in https://support.google.com/accounts/answer/185833
